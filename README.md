@@ -1,7 +1,9 @@
 README.md
+
 Author: Tarj Mehta
 
 ***Directions - To create executable***
+
 Cd to source/ directory from the jumpcloudChallenge directory. This directory includes all source code for the Jumpcloud coding challenge.
 
 To compile, from source directory, run command:
