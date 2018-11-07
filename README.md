@@ -4,7 +4,7 @@ Author: Tarj Mehta
 
 ***Directions - To create executable***
 
-Cd to source/ directory from the jumpcloudChallenge directory. This directory includes all source code for the Jumpcloud coding challenge.
+Clone this repo onto your machine. Cd to source/ directory from the jumpcloudChallenge directory. This directory includes all source code for the Jumpcloud coding challenge.
 
 To compile, from source directory, run command:
 -go build -o <desired_name_for_exe> *
